@@ -168,7 +168,7 @@ const addEmployee = () => {
         }
     ])
     .then(employeeData => {
-        // data for employee types 
+        // DATA FOR EMPLOYEE TYPE
 
         let { name, id, email, role, github, school, confirmAddEmployee } = employeeData; 
         let employee; 
@@ -196,16 +196,16 @@ const addEmployee = () => {
 };
 
 
-// function to generate HTML page file using file system 
+// FUNCTION TO GENERATE HTML FILE 
 const writeFile = data => {
     fs.writeFile('./dist/index.html', data, err => {
-        // if there is an error 
+        // IF THERE IS AN ERROR
         if (err) {
             console.log(err);
             return;
-        // when the profile has been created 
+        // WHEN THE PROFILE HAS BEEN CREATED
         } else {
-            console.log("Your team profile has been successfully created! Please check out the index.html")
+            console.log("Your team profile has been successfully created! Please check index.html")
         }
     })
 }; 
