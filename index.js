@@ -82,9 +82,9 @@ const addManager = () => {
 
 const addEmployee = () => {
     console.log(`
-    =================
-    Adding employees to the team
-    =================
+    =================================
+    ADD EMPLOYEES TO THE TEAM PROFILE
+    =================================
     `);
 
     return inquirer.prompt ([

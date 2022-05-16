@@ -15,6 +15,7 @@ body {
     background-color: var(--primary);
     color: var(--secondary);
     font-size: 50px;
+   
 }
 
 .navbar-brand {
@@ -25,6 +26,7 @@ body {
 .card-header {
     background-color: var(--primary);
     color: var(--secondary);
+
 }
 
 .card-body {
