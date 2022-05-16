@@ -33,7 +33,7 @@ test('gets employee email', () => {
 
 // gets role from getRole()
 test('gets role of employee', () => {
-    const employee = new Employee('Nicole', 82, 'stella.ling@outlook.com');
+    const employee = new Employee('Stella', 82, 'stella.ling@outlook.com');
 
     expect(employee.getRole()).toEqual("Employee");
 }); 
