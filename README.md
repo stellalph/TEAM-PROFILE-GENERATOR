@@ -8,7 +8,6 @@ The task of this project is to build a Node.js command-line application that tak
 
 Overview of The HTML webpage generated:-
 
-
 ![alt text](assets/TeamPage.png)
 
 ## Table of Contents
