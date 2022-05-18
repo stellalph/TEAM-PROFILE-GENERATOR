@@ -132,7 +132,8 @@ This project is licensed under the terms of the MIT license.
 
 ## References
 
-*The Full-Stack Blog - Video Submission Guide 
-*
+*  The Full-Stack Blog - Video Submission Guide 
+*  Module 09 Mini-Project: Portfolio Generator
+*  10 The Unit Ahead Materials on Object-Oriented Programming, Constructors, Classes and Prototypes and Test-Driven Developmet (TDD)
 
 
