@@ -72,7 +72,7 @@ This application will need the installation of node.js and npm install (install 
  * npm init
  * npm install
 
- This team profile generator also uses the inquirer dependecies which need to be installed. 
+ This team profile generator also uses the inquirer dependencies which need to be installed. 
 
  * npm i inquirer
 
