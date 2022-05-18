@@ -37,7 +37,7 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
 
-   * <strong><em>The HTML webpage generated:-</em></strong>
+   * <strong><em>Sample of the HTML webpage generated:-</em></strong>
 
 ![alt text](assets/team-page.png)
 
@@ -95,6 +95,12 @@ to ensure the tests are passed.
 ![alt text](assets/jest-test.png)
 
 ## Usage
+
+The application uses Inquirer for collecting user inputs. The application will be invoked by using the following command:-
+
+* node index.js
+
+The user will be requested to input information about the team.  After all the inputs have been completed, an index-
 
 
 https://drive.google.com/file/d/12uStfXkUXP2aIxcdN2ObYhpOpHtkvGL9/view
