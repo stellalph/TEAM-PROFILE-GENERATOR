@@ -110,6 +110,15 @@ After all the inputs have been completed, an index.html file be created from the
 
 A sample copy of the generated HTML file is placed under <strong>Description</strong> section.
 
+The link to the video to show the walkthrough of the user 's input to generate team profile.
+
+Please click on the link <strong> VIDEO </strong> below to access the video.
+
+ * [VIDEO](https://drive.google.com/file/d/12uStfXkUXP2aIxcdN2ObYhpOpHtkvGL9/view)
+
+The repository name is Team-Profile-Generator and the URL of the GitHub repository is https://github.com/stellalph/Team-Profile-Generator.git
+
+* [URL GitHub repository](https://github.com/stellalph/Team-Profile-Generator.git)
 
 
 
