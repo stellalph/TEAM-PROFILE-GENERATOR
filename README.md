@@ -39,7 +39,12 @@ THEN I exit the application, and the HTML is generated
 
    * <strong><em>Sample of the HTML webpage generated:-</em></strong>
 
-![alt text](assets/team-page.png)
+   ![alt text](assets/team-page.png)
+
+The link to the sample HTML file generated:-
+   
+   * [SAMPLE HTML file](assets/team-page.png) - GitHub
+   * [SAMPLE HTML file](assets/team-page(html).png) - Local Machine
 
 ## Table of Contents
 * [Installation](#installation)
@@ -133,7 +138,7 @@ This project is licensed under the terms of the MIT license.
 ## References
 
 *  The Full-Stack Blog - Video Submission Guide 
-*  Module 09 Mini-Project: Portfolio Generator
+*  Module 09 Mini-Project: Portfolio Generator (Video)
 *  10 The Unit Ahead Materials on Object-Oriented Programming, Constructors, Classes and Prototypes and Test-Driven Developmet (TDD)
 
 
