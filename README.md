@@ -112,7 +112,7 @@ A sample copy of the generated HTML file is placed under <strong>Description</st
 
 The link to the video to show the walkthrough of the user 's input to generate team profile.
 
-###### Please click on the link <strong> VIDEO </strong> below to access the video.
+### Please click on the link <strong> VIDEO </strong> below to access the video.
 
  * [VIDEO](https://drive.google.com/file/d/12uStfXkUXP2aIxcdN2ObYhpOpHtkvGL9/view)
 
