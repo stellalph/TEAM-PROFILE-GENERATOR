@@ -45,7 +45,6 @@ THEN I exit the application, and the HTML is generated
 * [Installation](#installation)
 * [Tests](#tests)
 * [Usage](#usage)
-* [Contributing](#contributing)
 * [Questions](#questions)
 * [License](#license)
 
@@ -120,9 +119,6 @@ The repository name is Team-Profile-Generator and the URL of the GitHub reposito
 
 * [URL GitHub repository](https://github.com/stellalph/Team-Profile-Generator.git)
 
-
-## Contributing
-
 ## Questions
 
 Contact email: stella.ling@outlook.com
@@ -130,13 +126,13 @@ Contact email: stella.ling@outlook.com
 GitHub: [stellalph](https://github.com/stellalph)
 
 
-Node.js Crash Course, Jest Crash Course (Online Tutorial)
-
 ## License
   
 This project is licensed under the terms of the MIT license.
 
 ## References
 
+*The Full-Stack Blog - Video Submission Guide 
+*
 
 
