@@ -43,8 +43,8 @@ THEN I exit the application, and the HTML is generated
 
 ## Table of Contents
 * [Installation](#installation)
-* [Usage](#usage)
 * [Tests](#tests)
+* [Usage](#usage)
 * [Contributing](#contributing)
 * [Questions](#questions)
 * [License](#license)
@@ -86,7 +86,14 @@ This application will need the installation of node.js and npm install (install 
 
 ## Tests
 
-Do npm run test until all the tests are passed.
+This team profile generator uses jest for running the unit tests, that is, at command prompt
+
+ * npm run test
+
+to ensure the tests are passed.
+
+![alt text](assets/jest-test.png)
+
 ## Usage
 
 
