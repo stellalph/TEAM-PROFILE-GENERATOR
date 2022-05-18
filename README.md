@@ -7,7 +7,7 @@
 The task of this project is to build a Node.js command-line application that takes in information about employees on a software engineering team.  This application was created to generate a team profile based on the user 's input using the inquirer module and then generates an HTML webpage that would display summaries for each person.  This project would demonstrates the use of the OOP (Object-oriented Programming) and TDD (Test Driven Development) using testing framework Jest which is designed to write, run tests and report results of those tests according to the user story and acceptance criteria.
 
 
-  <strong><em>User Story</em></strong>
+   *<strong><em>User Story</em></strong>
 
 ```mdg
 AS A manager
@@ -15,7 +15,7 @@ I WANT to generate a webpage that displays my team's basic info
 SO THAT I have quick access to their emails and GitHub profiles
 ```
 
- <strong>Acceptance Criteria</strong>
+   *<strong><em>Acceptance Criteria</em></strong>
 
 ```md
 GIVEN a command-line application that accepts user input
@@ -37,7 +37,7 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
 
- <strong>Overview of The HTML webpage generated:-</strong>
+   *<strong><em>Overview of The HTML webpage generated:-</em></strong>
 
 ![alt text](assets/TeamPage.png)
 
