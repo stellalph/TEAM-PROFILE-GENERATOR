@@ -50,7 +50,41 @@ THEN I exit the application, and the HTML is generated
 * [License](#license)
 
 ## Installation
-Install npm, npm i inquirer and npm i jest  
+
+To start creating this application, the directory structure will be set up as below.
+
+```md
+.
+├── __tests__/             //jest tests
+│   ├── Employee.test.js
+│   ├── Engineer.test.js
+│   ├── Intern.test.js
+│   └── Manager.test.js
+├── dist/                  // rendered output (HTML) and CSS style sheet      
+├── lib/                   // classes
+├── src/                   // template helper code 
+├── .gitignore             // indicates which folders and files Git should ignore
+├── index.js               // runs the application
+└── package.json           
+```     
+This application will need the installation of node.js and npm install (install a package and its dependencies).  The steps :-
+
+ * npm init
+ * npm install
+
+ This team profile generator also uses the inquirer dependecies which need to be installed. 
+
+ * npm i inquirer
+
+ This will collect the input from the user and the application will be invoked by using the following command:
+
+ * node index.js
+
+ The application also uses jest for running the unit tests which is also be installed by the following command:-
+
+ * npm i jest
+
+
 
 ## Usage
 
@@ -75,4 +109,5 @@ This project is licensed under the terms of the MIT license.
 
 ## References
 
-Node.js Crash Course, Jest Crash Course (Online Tutorial)
+
+
