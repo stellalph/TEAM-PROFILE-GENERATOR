@@ -43,8 +43,8 @@ THEN I exit the application, and the HTML is generated
 
 The link to the sample HTML file generated:-
    
-   * [SAMPLE HTML file](assets/team-page.png) - GitHub
-   * [SAMPLE HTML file](assets/team-page(html).png) - Local Machine
+   * [SAMPLE HTML file](assets/team-page.png) - HTML webpage
+   * [SAMPLE HTML file](assets/team-page(html).png) - HTML file 
 
 ## Table of Contents
 * [Installation](#installation)
