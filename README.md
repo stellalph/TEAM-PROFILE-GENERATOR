@@ -100,7 +100,17 @@ The application uses Inquirer for collecting user inputs. The application will b
 
 * node index.js
 
-The user will be requested to input information about the team.  After all the inputs have been completed, an index-
+The user will be requested to input information about the team as per the screenshots:-
+
+1.![alt text](assets/UI-P1.png)
+2.![alt text](assets/UI-P2.png) 
+3.![alt text](assets/UI-P3.png) 
+
+After all the inputs have been completed, an index.html file be created from the user's input and will be in dist folder.
+
+A sample copy of the generated HTML file is placed under <strong>Description</strong> section.
+
+
 
 
 https://drive.google.com/file/d/12uStfXkUXP2aIxcdN2ObYhpOpHtkvGL9/view
