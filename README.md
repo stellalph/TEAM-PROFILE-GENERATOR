@@ -37,9 +37,9 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
 
-   * <strong><em>Overview of The HTML webpage generated:-</em></strong>
+   * <strong><em>The HTML webpage generated:-</em></strong>
 
-![alt text](assets/TeamPage.png)
+![alt text](assets/team-page.png)
 
 ## Table of Contents
 * [Installation](#installation)
@@ -67,7 +67,7 @@ To start creating this application, the directory structure will be set up as be
 ├── index.js               // runs the application
 └── package.json           
 ```     
-This application will need the installation of node.js and npm install (install a package and its dependencies).  The steps :-
+This application will need the installation of node.js and npm install (install a package and its dependencies).  The steps are
 
  * npm init
  * npm install
@@ -84,12 +84,16 @@ This application will need the installation of node.js and npm install (install 
 
  * npm i jest
 
+## Tests
 
-
+Do npm run test until all the tests are passed.
 ## Usage
 
-## Tests
-Do npm run test until all the tests are passed.
+
+https://drive.google.com/file/d/12uStfXkUXP2aIxcdN2ObYhpOpHtkvGL9/view
+
+
+
 
 
 ## Contributing
