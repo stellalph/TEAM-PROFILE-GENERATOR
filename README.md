@@ -121,13 +121,6 @@ The repository name is Team-Profile-Generator and the URL of the GitHub reposito
 * [URL GitHub repository](https://github.com/stellalph/Team-Profile-Generator.git)
 
 
-
-https://drive.google.com/file/d/12uStfXkUXP2aIxcdN2ObYhpOpHtkvGL9/view
-
-
-
-
-
 ## Contributing
 
 ## Questions
