@@ -41,7 +41,7 @@ THEN I exit the application, and the HTML is generated
 
    ![alt text](assets/team-page.png)
 
-The link to the sample HTML file generated:-
+   <em>The link to the sample HTML file generated:-</em>
    
    * [SAMPLE HTML file](assets/team-page.png) - HTML webpage
    * [SAMPLE HTML file](assets/team-page(html).png) - HTML file 
